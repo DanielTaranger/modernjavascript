@@ -1,0 +1,19 @@
+{
+  "name": "modernjavascript",
+  "version": "1.0.0",
+  "description": "The best project that ever was",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielTaranger/modernjavascript.git"
+  },
+  "author": "Dinkus Donderkronkel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielTaranger/modernjavascript/issues"
+  },
+  "homepage": "https://github.com/DanielTaranger/modernjavascript#readme"
+}
